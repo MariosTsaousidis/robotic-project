@@ -13,7 +13,7 @@
 # main.py MicroPython main code for Self-propelled robot with 3 wheels that draws an equilateral triangle and avoids obstacles.
 # Raspberry Pi with microPython
 # Author Marios Tsaousidis
-# 16th January 2025
+# 29th December 2024
 
 # -- Εισαγωγή βιβλιοθηκών -- 
 from machine import Pin, PWM, I2C
